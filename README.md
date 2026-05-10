@@ -1,2 +1,10 @@
-# SIMPLE-CAL
-A simple calculator program in C is used to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers entered by the user. The program uses a switch statement to select the operation based on the operator  operators, user input, and decision-making statements in C programming.
+                                                         SIMPLE CALCULATOR
+
+
+A simple calculator is a program that can perform addition, subtraction, multiplication, and division of two numbers provided as input. In this article, we will learn to create a simple calculator program in C.
+
+
+Using switch Statement:
+The switch statement in C is a clean and efficient way to write a conditional code which provides an easy way to write a C program for a simple calculator. Four switch cases can be defined for four operations: addition, subtraction, multiplication, and division, based on the input operator. When the user inputs an operator, the switch statement tests the input against these cases. (i.e., +, -, *, /), and the corresponding operation is executed, and the result is returned.
+
+
